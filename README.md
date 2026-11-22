@@ -5,6 +5,8 @@
 > **Le copilote qui garantit que toute IA écrit du code compatible VOTRE version d'Office — pas la sienne.**
 > *« Nous aussi, on copilote les amoureux du dev. »*
 
+<p align="center"><img src="assets/slogan_citation.png" alt="Demain commence aujourd'hui — 101 prompts efficaces pour être performant et indispensable en entreprise — par KRIMO765" width="720"></p>
+
 <p align="center"><em>Vitrine publique du projet — le code source n'est pas livré (voir Notice de propriété).</em></p>
 
 ---
