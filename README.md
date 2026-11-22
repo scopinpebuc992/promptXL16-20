@@ -105,6 +105,12 @@ L'application tourne ici (captures réelles) : le copilote sert aussi bien aux
 > compilation) est verrouillé `(Verr.)` par l'espace Admin/Dev : la protection est
 > structurelle, pas cosmétique.
 >
+> **Protection de l'œuvre** : la vidéo de présentation distribuée ici porte un
+> filigrane nominal permanent (`© KRIMO765 • COPILOT PROMPTS XL • Propriété
+> réservée`) et les fichiers officiels sont scellés par empreintes SHA-256
+> (registre local de propriété). Toute republication non autorisée est
+> identifiable et contestable.
+>
 > **Nous aussi, on copilote les amoureux du dev.** 💚
 
 *© 2026 — COPILOT PROMPTS XL 2016–2021. Tous droits réservés.*
