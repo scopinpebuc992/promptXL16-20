@@ -40,7 +40,7 @@ L'application tourne ici (captures réelles) : le copilote sert aussi bien aux
 
 **101/101 modèles chargés · 303/303 compilations conformes · 100 % local — rien ne quitte le poste.**
 
-🎬 **[Voir la vidéo de présentation (2 min 03)](assets/demo_video.mp4)** — le parcours complet, du premier SOMME.SI au Solveur… jusqu'au grand bravo aux passionnés de l'IA.
+🎬 **[Voir la vidéo de présentation (2 min 25)](assets/demo_video.mp4)** — le parcours complet, du premier SOMME.SI au Solveur, le grand bravo aux passionnés de l'IA… et le message adressé à celles et ceux qu'on ignore : formez-vous au no-code et à l'assistance IA. Demain commence aujourd'hui.
 
 ## 💡 Le principe en 4 étapes
 
