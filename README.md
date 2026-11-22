@@ -25,6 +25,21 @@ Ergonomie de bureau fidèle à l'app 365, adaptée aux éditions perpétuelles :
 
 ![Modèle d'interface](assets/modele_interface_app365.png)
 
+## 📸 L'app en vrai
+
+L'application tourne ici (captures réelles) : le copilote sert aussi bien aux
+**débutants** (premier SOMME.SI, première macro propre) qu'aux profils
+**opérationnels** (mails Outlook, multi-classeurs, Solveur, automatisations VBA).
+
+| Niveau Débutant | Niveau Opérationnel |
+|---|---|
+| ![App — niveau Débutant](assets/capture_app_debutant.png) | ![App — niveau Opérationnel](assets/capture_app_operationnel.png) |
+| Somme la base *Newbiz*, 101 modèles officiels disponibles d'un clic | Compilations conformes 303/303, 100 % local, verrouillage `(Verr.)` |
+
+**101/101 modèles chargés · 303/303 compilations conformes · 100 % local — rien ne quitte le poste.**
+
+🎬 **[Voir la vidéo de présentation (1 min 44)](assets/demo_video.mp4)** — le parcours complet, du premier SOMME.SI au Solveur.
+
 ## 💡 Le principe en 4 étapes
 
 ```
