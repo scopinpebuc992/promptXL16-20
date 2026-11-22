@@ -1,0 +1,14 @@
+# Vitrine publique UNIQUEMENT.
+#
+# Rgle d'or de ce depot : AUCUN code source ne sort par ici.
+# Le code applicatif vit dans ../office-prompt-manager/ et reste local.
+#
+# Ce depot vitrine ne contient volontairement que : README.md + assets/.
+
+# Ceinture de securite : tout code, reele ou oublie, serait exclu du depot vitrine
+*.js
+*.json
+*.bat
+*.vbs
+*.pyc
+node_modules/
